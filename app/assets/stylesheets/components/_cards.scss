@@ -1,0 +1,192 @@
+// Cards styles
+
+.card-store {
+  overflow: hidden;
+  height: 110px;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(66, 66, 66, 0.37);
+  display: flex;
+  align-items: center;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  margin: 20px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.store-photo {
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+}
+
+.card-store h2 {
+  font-family: $body-font;
+  color: whitesmoke;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  letter-spacing: 2px;
+}
+
+.card-store p {
+  font-size: 16px;
+  line-height: 1.4;
+  opacity: 0.9;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+.card-store .card-store-infos {
+  padding: 10px;
+}
+.card-store-booking{
+  @extend .card-store;
+  height: 200px;
+}
+
+.font-min {
+  font-size: 12px;
+}
+
+.booking-pending{
+padding: 5px;
+background: rgb(167, 167, 3);
+border-radius: 8px;
+width: 100px;
+}
+
+.booking-done{
+padding: 5px;
+background: green;
+border-radius: 8px;
+width: 100px;
+}
+
+.booking-rejected{
+padding: 5px;
+background: red;
+border-radius: 8px;
+width: 100px;
+}
+
+.game-card {
+  @extend .card-store;
+  height: 200px;
+  overflow: scroll;
+  margin-bottom: 72px;
+}
+
+.battle-card {
+  background: transparent;
+  height: 150px;
+  width: 150px;
+  perspective: 1000px;
+}
+
+// .battle-card-inner {
+//   position: relative;
+//   width: 100%;
+//   height: 100%;
+//   text-align: center;
+//   transition: transform 1s;
+//   transform-style: preserve-3d;
+// }
+
+// .battle-card .battle-card-inner.is-flipped {
+//   transform: rotateY(180deg);
+// }
+
+.battle-card-front,
+.battle-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+.battle-card-front {
+  @extend .card-store;
+  margin: 0;
+}
+
+.battle-card-back {
+  @extend .card-store;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: rotateY(180deg);
+  margin: 0;
+}
+
+.battle-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+// Infos styles
+
+.store-infos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  color: white;
+}
+
+.game-infos {
+  flex-grow: 2;
+  margin-top: 10px;
+  color: white;
+  text-align: center;
+}
+
+.tdn a {
+  text-decoration: none;
+}
+
+.battle-card {
+  transition: transform 2s ease;
+}
+
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.text-strong {
+  color: red;
+  font-weight: bolder;
+}
+
+.tag {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 6px;
+  border-radius: 10px;
+  margin: 5px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+// photos styles
+
+.game-photo {
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+}
+
+.console-system {
+  width: 120px !important;
+}
+.console-photo {
+  width: 55px;
+}

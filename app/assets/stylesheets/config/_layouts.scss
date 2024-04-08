@@ -1,0 +1,62 @@
+$bg-dark-l-opacity: 0.8;
+
+.body1 {
+  background-image: asset-url("fond3.jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  backdrop-filter: brightness(0.9);
+  min-height: 100vh;
+}
+
+$backgroundImages: (
+  asset_url("sun.jpeg"),
+  asset_url("city.jpeg"),
+  asset_url("forest.jpeg"),
+  asset_url("land.jpeg"),
+  asset_url("old.jpeg"),
+  asset_url("demon.jpeg")
+);
+
+$randomIndex: random(length($backgroundImages));
+$selectedImage: nth($backgroundImages, $randomIndex);
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+.p-b {
+  padding-bottom: 4rem;
+}
+
+.m-t {
+  margin-top: 19px;
+}
+
+.body2 {
+  background-image: $selectedImage;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.smalltext {
+  font-size: 12px;
+  color: white;
+  padding-left: 31px;
+}
+
+.overflowHidden {
+  overflow: hidden;
+}
+
+.bg-dark-l {
+  background-color: rgba(33, 37, 41, $bg-dark-l-opacity);
+}

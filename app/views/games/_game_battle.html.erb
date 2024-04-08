@@ -1,0 +1,21 @@
+<div class="container" data-controller="swipe">
+  <% @first_games.each do |first_game| %>
+    <div id="swiper1" class="swiper-container" data-swipe-target="cardsBattle1">
+      <div class="swiper-wrapper1">
+        <div class="swiper-slide">
+          <%= render 'shared/card_battle', game: first_game %>
+        </div>
+      </div>
+    </div>
+  <% end %>
+
+  <% @second_games.each do |second_game| %>
+    <div id="swiper2" class="swiper-container" data-swipe-target="cardBattle2">
+      <div class="swiper-wrapper2">
+        <div class="swiper-slide">
+          <%= render 'shared/card_battle', game: second_game %>
+        </div>
+      </div>
+    </div>
+  <% end %>
+</div>

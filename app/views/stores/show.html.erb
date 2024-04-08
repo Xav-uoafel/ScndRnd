@@ -1,0 +1,24 @@
+<div class="store-infos">
+  <h1><%= @store.name %></h1>
+  <p>Ouvert de <%= @store.open_hour.to_s %>h à <%= @store.close_hour.to_s %>h</p>
+  <p><%= @store.address %></p>
+</div>
+<div class="games-cards">
+<% @store_games.each do |game| %>
+<span class="tdn">
+  <%= link_to game_path(game) do %>
+  <div class="game-card">
+    <%=  cl_image_tag game.picture.key, class: "game-photo" %>
+        <div class="game-infos">
+        <h2><%= game.title %></h2>
+       <% if game.console %>
+        <p><%= cl_image_tag game.console.picture.key, class: "console-photo #{"console-system" if game.console.name == "Master System"}"%></p>
+        <% end %>
+        <p><strong><%= game.price %></strong> €</p>
+    </div>
+    </div>
+    </span>
+    <% end %>
+<% end %>
+  </div>
+</div>
