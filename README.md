@@ -127,10 +127,10 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
    
 5. **Démarrer Sidekiq pour gérer les tâches en arrière-plan :**
    ```bash
-  bundle exec sidekiq
+   bundle exec sidekiq
    
 7. **Configurer la clé Cloudinary, Giant Bomb , MapBox, OpenAi :**
-   
+    ```bash
    touch .env
    
 8. **Ajouter la clé Cloudinary dans le fichier .env :**
