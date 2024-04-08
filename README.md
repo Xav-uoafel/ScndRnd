@@ -19,7 +19,7 @@ Deuxième Parcours : Découverte et Réservation
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592410/SecondRound/Pageclient.png" alt="Page d'accueil colorée" width="23%" />
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592417/SecondRound/Recherche.png" alt="Recherche localisée de jeux" width="23%" />
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592413/SecondRound/Aller.png" alt="Vue de la réservation et itinéraire" width="23%" />
-  <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592416/SecondRound/Combat.png" alt="Combat de jeux" width="23%" />
+  <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_23%/v1712592416/SecondRound/Combat.png" alt="Combat de jeux" width="23%" />
 </div>
 <div align="center">
   <b>1.</b> Explorez l'accueil dynamique offrant recherche localisée et aperçu de vos réservations.<br>
