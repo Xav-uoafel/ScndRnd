@@ -1,0 +1,125 @@
+.login-title {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Adaptez à la largeur de votre conteneur */
+  max-width: 450px; /* ou une largeur fixe si nécessaire */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-label {
+  font-size: 18px;
+  color: #151717;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.input {
+  border: 1.5px solid #ecedec;
+  border-radius: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+
+.input:focus {
+  outline: 2px solid #2d79f3;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 10px;
+}
+
+.checkbox-input {
+  accent-color: #2d79f3;
+}
+
+.checkbox-label {
+  font-size: 14px;
+  color: #151717;
+}
+
+.button-submit {
+  background-color: #151717;
+  border: none;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.button-submit:hover {
+  background-color: #252727;
+}
+
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.span {
+  color: #2d79f3;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.shared-links .p {
+  text-align: center;
+  color: #151717;
+  margin-top: 20px;
+}
+
+.hidden-label {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  margin-top: 10px; /* ou ajustez selon l'espacement souhaité */
+}
+
+.forgot-password,
+.sign-up {
+  color: #2d79f3;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 500;
+  display: flex;
+  /* align-items: center; */
+  text-align: end;
+  center: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 500;
+  flex-direction: row-reverse;
+}
+
+.right-aligned {
+  margin-left: auto; /* Cela pousse le paragraphe à droite */
+  text-align: right;
+}
