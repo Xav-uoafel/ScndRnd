@@ -30,7 +30,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 
 
 <details>
-<summary>
+
   
   ### Premier Parcours : De la Connexion à la Vente</summary>
 
@@ -52,7 +52,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 </details>
 
 <details>
-<summary>
+
   
   ### Deuxième Parcours : Découverte et Réservation</summary>
 
