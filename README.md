@@ -1,5 +1,6 @@
 <div align="center">
-
+***
+  
 ## 🚀 À Propos du Projet SecondRound
 
 SecondRound est une mobile web app révolutionnaire conçue pour transformer l'expérience d'achat et de vente de jeux vidéo d'occasion. Ce projet est le fruit d'un défi intense de 10 jours réalisé en collaboration avec deux autres développeurs Full Stack. Ensemble, nous avons couvert chaque aspect du développement, de la conception visuelle à la mise en production, avec l'ambition de simplifier et d'enrichir les interactions entre les détenteurs de magasins de jeux vidéo et les joueurs.
@@ -16,7 +17,7 @@ SecondRound est une mobile web app révolutionnaire conçue pour transformer l'e
 SecondRound incarne notre passion pour le développement et notre engagement à offrir des solutions technologiques innovantes pour la communauté des joueurs de jeux vidéo. Le projet est accessible aussi bien sur mobile que sur desktop via l'URL suivante : [https://www.second-round.me/](https://www.second-round.me/)
 
 </div>
-
+***
 
 
 <details>
@@ -102,14 +103,15 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
     sudo apt-get install redis-server
     sudo systemctl start redis.service
    
-5. **Démarrer Sidekiq pour gérer les tâches en arrière-plan :**,
+5. **Démarrer Sidekiq pour gérer les tâches en arrière-plan :**
+   ```bash
   bundle exec sidekiq
    
-6. **Configurer la clé Cloudinary, Giant Bomb , MapBox, OpenAi :**
-   ```bash
+7. **Configurer la clé Cloudinary, Giant Bomb , MapBox, OpenAi :**
+   
    touch .env
    
-7. **Ajouter la clé Cloudinary dans le fichier .env :**
+8. **Ajouter la clé Cloudinary dans le fichier .env :**
    ```bash
    CLOUDINARY_URL=xxxx
    GIANT_BOMB_API_KEY=
@@ -117,7 +119,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
    OPENAI_ACCESS_TOKEN=
    
    
-8. **Créer la base de données, exécuter les migrations et le seed :**
+9. **Créer la base de données, exécuter les migrations et le seed :**
    ```bash
    rails db:create db:migrate db:seed
 
