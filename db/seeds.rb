@@ -7,8 +7,8 @@ puts 'Database cleaned'
 
 puts 'Creating users...'
 nour = User.create!(first_name: 'Nour', last_name: 'Benkerroum', role: 1, email: 'test@test.com', password: 123456)
-xavier = User.create!(first_name: 'Nour', last_name: 'Benkerroum', role: 0, email: 'test2@test.com', password: 123456)
-emma = User.create!(first_name: 'Nour', last_name: 'Benkerroum', role: 0, email: 'test3@test.com', password: 123456)
+xavier = User.create!(first_name: 'Nour', last_name: 'Lefaoux', role: 0, email: 'test2@test.com', password: 123456)
+emma = User.create!(first_name: 'Nour', last_name: 'Puget', role: 0, email: 'test3@test.com', password: 123456)
 puts '3 users created'
 
 
