@@ -1,14 +1,21 @@
 <div align="center">
-***
+
   
 ## 🚀 À Propos du Projet SecondRound
 
 SecondRound est une mobile web app révolutionnaire conçue pour transformer l'expérience d'achat et de vente de jeux vidéo d'occasion. Ce projet est le fruit d'un défi intense de 10 jours réalisé en collaboration avec deux autres développeurs Full Stack. Ensemble, nous avons couvert chaque aspect du développement, de la conception visuelle à la mise en production, avec l'ambition de simplifier et d'enrichir les interactions entre les détenteurs de magasins de jeux vidéo et les joueurs.
 
+
+***
+
+
 **Pour les Vendeurs :**
 - **Auto-génération de fiches produits** : Photographiez les jeux et obtenez automatiquement une fiche produit détaillée, prête pour la vente.
 - **Gestion des réservations** : Visualisez et acceptez facilement les réservations en cours directement depuis l'accueil.
 - **Stock et modifications** : Un espace dédié pour gérer le stock et mettre à jour les fiches de jeux vidéo.
+
+
+***
 
 **Pour les Joueurs :**
 - **Recherche simplifiée** : Trouvez des jeux vidéo d'occasion près de chez vous grâce à la recherche et à l'auto-localisation.
@@ -17,6 +24,8 @@ SecondRound est une mobile web app révolutionnaire conçue pour transformer l'e
 SecondRound incarne notre passion pour le développement et notre engagement à offrir des solutions technologiques innovantes pour la communauté des joueurs de jeux vidéo. Le projet est accessible aussi bien sur mobile que sur desktop via l'URL suivante : [https://www.second-round.me/](https://www.second-round.me/)
 
 </div>
+
+
 ***
 
 
