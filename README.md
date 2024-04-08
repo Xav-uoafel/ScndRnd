@@ -15,7 +15,7 @@
 *Explorez l'accueil dynamique offrant recherche localisée.*
 <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592417/SecondRound/Recherche.png" alt="Recherche localisée de jeux" width="180"/>
 *Effectuez des recherches précises pour trouver les jeux à proximité.*
-<img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592413/SecondRound/Aller.png" alt="Vue de la réservation et itinéraire" width="180"/>
+<img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712592413/SecondRound/Aller.png" alt="Vue de la réservation et itinéraire" width="180"/>
 *Consultez vos réservations et l'itinéraire pour récupérer votre jeu.*
-<img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592416/SecondRound/Combat.png" alt="Combat de jeux" width="180"/>
+<img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712592416/SecondRound/Combat.png" alt="Combat de jeux" width="180"/>
 *Participez à des "combats de jeux" ludiques pour découvrir le jeu parfait.*
