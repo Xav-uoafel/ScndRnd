@@ -1,3 +1,11 @@
+
+<div align="center">
+  
+  <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712612263/SecondRound/Secondlog.png"/><br/>
+  
+</div>
+
+
 <div align="center">
 
   
@@ -30,6 +38,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 
 
 <details>
+<summary>### Premier Parcours : De la Connexion à la Vente</summary>
 
   
   ### Premier Parcours : De la Connexion à la Vente</summary>
@@ -52,7 +61,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 </details>
 
 <details>
-
+<summary>### Deuxième Parcours : Découverte et Réservation</summary>
   
   ### Deuxième Parcours : Découverte et Réservation</summary>
 
