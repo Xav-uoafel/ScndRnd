@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712612263/SecondRound/Secondlog.png"/><br/>
+  <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_300,h_300/v1712612263/SecondRound/Secondlog.png"/><br/>
   
 </div>
 
@@ -38,10 +38,12 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 
 
 <details>
-<summary>### Premier Parcours : De la Connexion à la Vente</summary>
-
+<summary>
   
   ### Premier Parcours : De la Connexion à la Vente</summary>
+
+  
+  
 
 <p align="center">
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712592412/SecondRound/Connection.png" alt="Page de connexion" width="500"/><br/>
@@ -61,9 +63,11 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 </details>
 
 <details>
-<summary>### Deuxième Parcours : Découverte et Réservation</summary>
+<summary>
   
   ### Deuxième Parcours : Découverte et Réservation</summary>
+  
+  
 
 <p align="center">
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712592410/SecondRound/Pageclient.png" alt="Page d'accueil colorée" width="500"/><br/>
