@@ -46,7 +46,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
   
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dgmantli3/image/upload/w_500,h_300/v1712592412/SecondRound/Connection.png" alt="Page de connexion" width="500"/><br/>
+  <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592412/SecondRound/Connection.png" alt="Page de connexion" width="500"/><br/>
   *Commencez par une connexion fluide et sécurisée.*
 </p>
 
