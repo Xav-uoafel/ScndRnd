@@ -1,7 +1,6 @@
 
-
 <% if current_user.seller? %>
-  <%= render 'seller_home' %>
-<% else %>
   <%= render 'user_home' %>
+<% else %>
+  <%= render 'seller_home' %>
 <% end %>
