@@ -42,9 +42,6 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
   
   ### Premier Parcours : De la Connexion à la Vente</summary>
 
-  
-  
-
 <p align="center">
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592412/SecondRound/Connection.png" alt="Page de connexion" width="500"/><br/>
   *Commencez par une connexion fluide et sécurisée.*
@@ -68,15 +65,9 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
   ### Deuxième Parcours : Découverte et Réservation</summary>
   
   
-
 <p align="center">
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592410/SecondRound/Pageclient.png" alt="Page d'accueil colorée" width="500"/><br/>
   *Explorez l'accueil dynamique offrant recherche localisée.*
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592417/SecondRound/Recherche.png" alt="Recherche localisée de jeux" width="500"/><br/>
-  *Effectuez des recherches précises pour trouver les jeux à proximité.*
 </p>
 
 <p align="center">
