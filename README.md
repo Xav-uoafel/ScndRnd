@@ -43,18 +43,24 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
   ### Premier Parcours : De la Connexion à la Vente</summary>
 
 <p align="center">
+  
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592412/SecondRound/Connection.png" alt="Page de connexion" width="500"/><br/>
   *Commencez par une connexion fluide et sécurisée.*
+  
 </p>
 
 <p align="center">
+  
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592410/SecondRound/LandingCust.png" alt="Accueil après connexion" width="500"/><br/>
   *Accédez à une interface simplifiée pour photographier votre jeu.*
+  
 </p>
 
 <p align="center">
+  
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712601416/SecondRound/rjqsjurxsfxr2hp1dzj6.png" alt="Analyse de la photo du jeu" width="500"/><br/>
   *L'analyse intelligente remplit automatiquement les détails du jeu.*
+  
 </p>
 
 </details>
@@ -63,7 +69,7 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 <summary>
   
   ### Deuxième Parcours : Découverte et Réservation</summary>
-  
+  <summary>
   
 <p align="center">
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592410/SecondRound/Pageclient.png" alt="Page d'accueil colorée" width="500"/><br/>
@@ -78,7 +84,9 @@ SecondRound incarne notre passion pour le développement et notre engagement à 
 <p align="center">
   <img src="https://res.cloudinary.com/dgmantli3/image/upload/v1712592416/SecondRound/Combat.png" alt="Combat de jeux" width="500"/><br/>
   *Participez à des "combats de jeux" ludiques pour découvrir le jeu parfait.*
+  
 </details>
+</summary>
 
 ***
 
