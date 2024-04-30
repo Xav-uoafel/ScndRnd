@@ -1,5 +1,5 @@
 class GetGameInfos
-  REGEX = /Nom: (?<title>[^\n]+)\s*Nom du jeu en anglais: (?<english_title>[^\n]+)\s*Année de sortie en France: (?<year>[^\n]+)\s*Description courte: (?<description>[^\n]+)\s*Catégorie: (?<category>[^\n]+)/
+  REGEX = /Nom: (?<title>[^\n]+)\s*Nom du jeu en anglais: (?<english_title>[^\n]+)\s*Année de sortie en France: (?<year>[^\n]+)\s*Description courte: (?<description>[^\n]+)\s*Catégorie: (?<category>[^\n]+)/ #/x permet de mettre des espaces dans le regex sans qu'ils soient pris en compte
   def initialize(attributes = {})
     @game_user_photo = attributes[:game_user_photo]
     @client = AiTools::OpenAiClient.new

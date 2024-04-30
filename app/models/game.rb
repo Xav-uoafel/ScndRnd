@@ -17,7 +17,7 @@ class Game < ApplicationRecord
   def update_with_api_data(api_data)
     update(
       title: api_data[:title],
-      year: api_data[:year].to_i,
+      year: Integer(api_data[:year]),
       description: api_data[:description],
       category: api_data[:category],
       english_title: api_data[:english_title],
